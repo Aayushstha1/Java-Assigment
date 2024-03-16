@@ -6,7 +6,7 @@ public class assignment {
             int num3 = 15;
     
             int max = findMax(num1, num2, num3);
-            
+            j
             System.out.println("The maximum number is: " + max);
         }
     
